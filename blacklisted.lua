@@ -1,0 +1,3 @@
+local table = {}
+
+return table
