@@ -1,3 +1,1 @@
-local table = {}
-
-return table
+local blacklistedTable = {}
