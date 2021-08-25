@@ -1,1 +1,3 @@
 local blacklistedTable = {}
+
+return blacklistedTable
